@@ -1,5 +1,8 @@
 # Confused with Data Dashboard
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Shahnab.ConfusedWithData)
+[![GitHub Pages](https://img.shields.io/badge/demo-live-success)](https://shahnab.github.io/ConfusedWithData/)
+
 > Confusion dashboard: too many metrics to track and then cannot decide what to do
 
 A procedural retro-futuristic data visualization engine that generates infinite, unique bento-grid layouts filled with animated data visualizations. Perfect for when you want to feel overwhelmed by metrics in style.
