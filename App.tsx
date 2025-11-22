@@ -213,6 +213,9 @@ const App: React.FC = () => {
               <div>Built with React + Canvas</div>
               <div>Created by <a href="https://www.linkedin.com/in/shahnabahmed/" target="_blank" rel="noopener noreferrer" className="hover:text-white underline decoration-dotted transition-colors">Shahnab</a></div>
               <div>2025 Edition</div>
+              <div className="mt-3 flex justify-center">
+                <img alt="Visitors" className="opacity-70 hover:opacity-100 transition-opacity" src="https://visitor-badge.laobi.icu/badge?page_id=Shahnab.ConfusedWithData" />
+              </div>
             </div>
           </div>
         </div>
